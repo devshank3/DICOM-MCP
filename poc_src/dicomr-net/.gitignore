@@ -1,0 +1,5 @@
+bin/
+obj/
+*.user
+*.protocol.json
+*.header.json

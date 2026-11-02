@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dicomr.Core\Dicomr.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="fo-dicom" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <RootNamespace>Dicomr.Dicom</RootNamespace>
+  </PropertyGroup>
+
+</Project>

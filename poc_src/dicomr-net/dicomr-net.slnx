@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Dicomr.Core/Dicomr.Core.csproj" />
+    <Project Path="src/Dicomr.Dicom/Dicomr.Dicom.csproj" />
+    <Project Path="src/Dicomr.Cli/Dicomr.Cli.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Dicomr.Core.Tests/Dicomr.Core.Tests.csproj" />
+    <Project Path="tests/Dicomr.Dicom.Tests/Dicomr.Dicom.Tests.csproj" />
+    <Project Path="tests/Dicomr.Cli.Tests/Dicomr.Cli.Tests.csproj" />
+  </Folder>
+</Solution>
